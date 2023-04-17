@@ -1,6 +1,6 @@
 {
     "title": "IE - Tech",
-    "name": "startbootstrap-modern-business",
+    "name": "modern-business",
     "version": "5.0.7",
     "scripts": {
         "build": "mkdir -p build && cp -R dist/* build/ && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
